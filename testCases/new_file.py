@@ -13,6 +13,4 @@ def test_me():
     mh = driver.find_element(By.LINK_TEXT, "LICENCE")
     ac = ActionChains(driver)
     ac.move_to_element(mh).click().perform()hjsdfiuiJSF
-huihsfjnWE
-IHUYESE
-JIHSFGE
+
